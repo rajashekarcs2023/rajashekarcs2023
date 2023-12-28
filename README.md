@@ -59,29 +59,27 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### In the past,
 
-<a href="https://www.amazon.com/amazonprime" target="_blank" rel="noopener">
-  <img alt="Amazon" height="30px" src="https://img.shields.io/badge/Amazon%20Prime-00A8E1?style=for-the-badge&logo=amazon&logoColor=white" />
-</a>
 
 - worked with Amazon as a 🧑‍💻 Software Engineer at Amazon Prime, developing a full-stack feature for 100k+ Customer Service Agents across 32+ countries
-- worked at 🛢️ Scout Energy Partners to automate oil & gas scripts with Python and built a full-stack web application
+- worked at Citi India as an application developer to automate oil & gas scripts with Python and built a full-stack web application
 
 ---
 
 ### Hackathons
 My Recent Hackathon projects include:
 
-<div>MultiMed Vision+ - 1st Place Intersystems Integrated ML challenge at CalHacks 10.0</div>
+<div>Reflection Buddy - 1st Place Combining AI and Physical World Challenge MIT IBM Watson AI Lab at HackMIT 2023</div>
 
-<div>StoryStocks - 2nd Place Goldman Sachs Challenge at HackUTD X</div>
+<div>MultiMed Vision+ - 1st Place Intersystems Integrated ML challenge at CalHacks 10.0 2023</div>
 
-<div>Carbon - top 5 and productivity track winner at HackRice 13</div>
+<div>StoryStocks - 2nd Place Goldman Sachs Challenge at HackUTD X 2023</div>
 
-<div>Chain Persona - 3rd place winner of Cartesi at HackSMU V</div>
+<div>CogniCare - Social Impact Challenge winner at MHacks 2023</div>
 
-<div>ScholarSource - top 20 winner and Wolfram Award winner at PennApps</div>
+<div>Mock Interview Exchange - 1st place winner of San Francisco Developer Week Hackathon 2023 </div>
 
-<div>ChronoSnap - 1st place winner with Cartesi using blockchain technology</div>
+<div>PeptGPT - top 10 winner AT CalHacks AI LLM Hackathon</div>
+
 
 ---
 
