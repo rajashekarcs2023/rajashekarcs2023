@@ -60,8 +60,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### In the past,
 
 
-- worked with Amazon as a 🧑‍💻 Software Engineer at Amazon Prime, developing a full-stack feature for 100k+ Customer Service Agents across 32+ countries
-- worked at Citi India as an application developer to automate oil & gas scripts with Python and built a full-stack web application
+- worked with Global Energy Consulting Engineers as a 🧑‍💻 Software Engineer, developing a enterprise grade web applications
+- worked at Citi India as an Application Developer,where I worked on spring boot applications
+- worked at International Institute of Information Technology as Machine Learning Research Intern 
 
 ---
 
