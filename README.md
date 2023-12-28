@@ -66,6 +66,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - worked with Amazon as a 🧑‍💻 Software Engineer at Amazon Prime, developing a full-stack feature for 100k+ Customer Service Agents across 32+ countries
 - worked at 🛢️ Scout Energy Partners to automate oil & gas scripts with Python and built a full-stack web application
 
+---
+
 ### Hackathons
 My Recent Hackathon projects include:
 
@@ -80,6 +82,8 @@ My Recent Hackathon projects include:
 <div>ScholarSource - top 20 winner and Wolfram Award winner at PennApps</div>
 
 <div>ChronoSnap - 1st place winner with Cartesi using blockchain technology</div>
+
+---
 
 ### 🔥 &nbsp; My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rajashekarcs2023&theme=dark&background=000000)](https://git.io/streak-stats)
