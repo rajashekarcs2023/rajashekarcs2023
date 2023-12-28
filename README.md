@@ -69,17 +69,17 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 My Recent Hackathon projects include:
 
-<div>Reflection Buddy - 1st Place Combining AI and Physical World Challenge MIT IBM Watson AI Lab at HackMIT 2023</div>
+🤔<div>Reflection Buddy - 1st Place Combining AI and Physical World Challenge MIT IBM Watson AI Lab at HackMIT 2023</div>
 
-<div>MultiMed Vision+ - 1st Place Intersystems Integrated ML challenge at CalHacks 10.0 2023</div>
+🏥<div>MultiMed Vision+ - 1st Place Intersystems Integrated ML challenge at CalHacks 10.0 2023</div>
 
-<div>StoryStocks - 2nd Place Goldman Sachs Challenge at HackUTD X 2023</div>
+📈<div>StoryStocks - 2nd Place Goldman Sachs Challenge at HackUTD X 2023</div>
 
-<div>CogniCare - Social Impact Challenge winner at MHacks 2023</div>
+🧠<div>CogniCare - Social Impact Challenge winner at MHacks 2023</div>
 
-<div>Mock Interview Exchange - 1st place winner of San Francisco Developer Week Hackathon 2023 </div>
+❓<div>Mock Interview Exchange - 1st place winner of San Francisco Developer Week Hackathon 2023 </div>
 
-<div>PeptGPT - top 10 winner AT CalHacks AI LLM Hackathon</div>
+🧬<div>PeptGPT - top 10 winner AT CalHacks AI LLM Hackathon</div>
 
 
 ---
