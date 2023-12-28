@@ -3,7 +3,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/rajashekar-vennavelli"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 
-<a href="https://devpost.com/ephraim888sun?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" target="_blank" rel="noopener">
+<a href="https://devpost.com/RajashekarVennavelli?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white" alt="Devpost Badge"/>
   </a>
 </p>
