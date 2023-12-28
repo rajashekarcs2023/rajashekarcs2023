@@ -6,7 +6,7 @@
 <p align="center">
 <a href="https://www.buymeacoffee.com/zed0" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 </p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=kakbar&style=flat-square&color=blue" alt=""></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=rajashekarcs2023&style=flat-square&color=blue" alt=""></p>
 
 <h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
@@ -19,10 +19,9 @@
 **`Engineer`**
 **`Developer`**
 
-#### I'm a 🐴 graduate student at 🏫 Santa Clara University studying 💻 Computer Science and Engineering.
+#### I'm a 🎓graduate student at 🏫 Santa Clara University 🐴 studying 💻 Computer Science and Engineering.
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- 🎓 I’m a CS graduate student at Santa Clara University.
 - 🔭 Being an AI enthusiast, I'm exploring latest technologies in AI
 - 🤖 Taking specialization courses on Machine Learning, Deep Learning and Natural Language Processing.
 - 👨‍💻 I'm a hackathon enthusiast who loves building innovative projects, turning creative ideas into reality within short span of time.
