@@ -1,7 +1,7 @@
 
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 <p align="center">
-<a href="https://www.linkedin.com/in/rajashekar-vennavelli"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+<a href="https://www.linkedin.com/in/rajashekar-v-627722258/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 
 <a href="https://devpost.com/RajashekarVennavelli?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white" alt="Devpost Badge"/>
@@ -23,7 +23,7 @@
 **`Engineer`**
 **`Developer`**
 
-#### I'm a 🎓graduate student at 🏫 Santa Clara University 🐴 studying 💻 Computer Science and Engineering.
+#### I'm a 🎓CS student at 🏫 Santa Clara University 🐴
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 - 🔭 Being an AI enthusiast, I'm exploring latest technologies in AI
