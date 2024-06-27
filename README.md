@@ -65,7 +65,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 My Recent Hackathon projects include:
 
-<div>🤔Reflection Buddy - 1st Place Combining AI and Physical World Challenge MIT IBM Watson AI Lab at HackMIT 2023</div>
+<div>🤔Reflection Buddy - 1st Place Combining AI and Physical World Challenge 
 
 <div>🏥MultiMed Vision+ - 1st Place Intersystems Integrated ML challenge at CalHacks 10.0 2023</div>
 
