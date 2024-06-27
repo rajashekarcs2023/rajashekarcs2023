@@ -30,7 +30,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 🤖 Taking specialization courses on Machine Learning, Deep Learning and Natural Language Processing.
 - 👨‍💻 I'm a hackathon enthusiast who loves building innovative projects, turning creative ideas into reality within short span of time.
 - ⚡ In my free time I solve problems on LeetCode and read tech articles.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-rajashekar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rajashekar-vennavelli)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-rajashekar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rajashekar-vennevelli-627722258/)
 
 ---
 
