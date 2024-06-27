@@ -1,7 +1,7 @@
 
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 <p align="center">
-<a href="https://www.linkedin.com/in/rajashekar-v-627722258/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+
 
 <a href="https://devpost.com/RajashekarVennavelli?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white" alt="Devpost Badge"/>
@@ -30,7 +30,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 🤖 Taking specialization courses on Machine Learning, Deep Learning and Natural Language Processing.
 - 👨‍💻 I'm a hackathon enthusiast who loves building innovative projects, turning creative ideas into reality within short span of time.
 - ⚡ In my free time I solve problems on LeetCode and read tech articles.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-rajashekar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rajashekar-vennevelli-627722258/)
+
 
 ---
 
@@ -57,12 +57,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-### In the past,
 
-
-- worked with Global Energy Consulting Engineers as a 🧑‍💻 Software Engineer, developing a enterprise grade web applications
-- worked at Citi India as an Application Developer,where I worked on spring boot applications
-- worked at International Institute of Information Technology as Machine Learning Research Intern 
 
 ---
 
