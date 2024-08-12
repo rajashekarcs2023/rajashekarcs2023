@@ -24,7 +24,7 @@
 **`Developer`**
 
 #### I'm a 🎓CS student at 🏫 Santa Clara University 🐴
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 - 🔭 Being an AI enthusiast, I'm exploring latest technologies in AI
 - 🤖 Taking specialization courses on Machine Learning, Deep Learning and Natural Language Processing.
