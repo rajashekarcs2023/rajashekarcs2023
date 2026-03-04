@@ -112,7 +112,29 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### Hackathons  <a href="https://devpost.com/RajashekarVennavelli?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" target="_blank" rel="noopener"> <img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white" alt="Devpost Badge"/> </a>
 
-My Recent Hackathon projects include:
+My Recent Hackathon awards include:
+
+<div>🚀ViralWave AI - 1st Place Amazon AGI Labs Challenge at HackPrinceton 2026</div>
+
+<div>🤖PixelPilot - 1st Place Best Agentic Application DedalusLabs at Y Combinator Agents Hackathon 2025</div>
+
+<div>🎓HiveMind - 1st Place Education Track Grand Prize at Stanford TreeHacks 2025</div>
+
+<div>DocRight context - Top 6 Finalist at the first Llama Lounge Agentic Hackathon 2026</div>
+
+<div>🌍OneEarth - 1st Place Sustainability Track Grand Prize at UC Santa Cruz Hackathon 2025</div>
+
+<div>🧠SLM Security Agent - 1st Place Small Language Model Build Day at AGI House 2025</div>
+
+<div>🎤Your AI Boss - Best Voice AI Agent at Agents in the Loop Hackathon (AGI House)</div>
+
+<div>🏛CivitasX - 1st Place Best MCP Integration App at CalHacks 2025</div>
+
+<div>🏥MultiMed Vision+ - 1st Place ML Innovation Challenge at CalHacks 2023</div>
+
+<div>🩺PneumiAssist - 1st Place HackMIT 2023</div>
+
+<div>📓AI Journaling Assistant - 3rd Place HackMIT 2024</div>
 
 <div>🤔Reflection Buddy - 1st Place Combining AI and Physical World Challenge 
 
