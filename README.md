@@ -20,8 +20,8 @@
 # 🕺🏻 Rajashekar Vennavelli
 
 **`Hackathon Enthusiast`**
-**`Engineer`**
-**`Developer`**
+**`AI Software Engineer`**
+**`AI Researcher`**
 
 ## ⚡ Languages and Frameworks
 <table>
