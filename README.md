@@ -19,17 +19,9 @@
 ### :woman_technologist: &nbsp;About Me :
 # 🕺🏻 Rajashekar Vennavelli
 
-**`Entrepreneur`**
+**`Hackathon Enthusiast`**
 **`Engineer`**
 **`Developer`**
-
-#### I'm a 🎓CS student at 🏫 Santa Clara University 🐴
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-
-- 🔭 Being an AI enthusiast, I'm exploring latest technologies in AI
-- 🤖 Taking specialization courses on Machine Learning, Deep Learning and Natural Language Processing.
-- 👨‍💻 I'm a hackathon enthusiast who loves building innovative projects, turning creative ideas into reality within short span of time.
-- ⚡ In my free time I solve problems on LeetCode and read tech articles.
 
 ## ⚡ Languages and Frameworks
 <table>
